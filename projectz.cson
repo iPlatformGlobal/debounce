@@ -1,8 +1,8 @@
 {
-	"title": "GUID",
-	"name": "@iplatformglobal/guid",
+	"title": "debounce",
+	"name": "@iplatformglobal/debounce",
 	"homepage": "https://www.iplatform.com",
-	"description": "A helper that returns a guid",
+	"description": "A helper that returns a debounce",
 	"license": "MIT",
 	"browsers": true,
 	"author": "2017+ iPlatform <software@iplatform.co.za> (https://www.iplatform.com)",
@@ -11,10 +11,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/iPlatformGlobal/guid.git"
+		"url": "https://github.com/iPlatformGlobal/debounce.git"
 	},
 	"bugs": {
-		"url": "https://github.com/iPlatformGlobal/guid/issues"
+		"url": "https://github.com/iPlatformGlobal/debounce/issues"
 	},
 	"badges": {
 		"list": [
